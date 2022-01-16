@@ -3,9 +3,8 @@ body {
   overflow: hidden;
 }
 
-circle {
-  fill: rgb(180, 70, 70);
-  opacity: 70%;
+rect {
+  fill: steelblue;
 }
 
 text {
